@@ -7,8 +7,6 @@
 
 
 > ### "It's not at all important to get it right the first time. It's vitally important to get it right the last time."
-
-### Github Profile Details
 <p align="center"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamazz&theme=calm" alt="TopCodeBeast" align = "center"/></p>
 
 ### Programming Languages and skills
@@ -31,13 +29,11 @@
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
 
-
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 
 #### Editor&IDE
 ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-
 
 #### Status
 - Learning in progress...
