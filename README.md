@@ -8,6 +8,7 @@
 
 > ### "It's not at all important to get it right the first time. It's vitally important to get it right the last time."
 <p align="center"><img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamazz&theme=calm" alt="TopCodeBeast" align = "center"/></p>
+
 ### Programming Languages and skills
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
