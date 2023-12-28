@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://github.com/Oussamazz/Oussamazz/blob/main/github.svg" alt="github.com/oussamazz" />
 </p>
+
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 
 #### Editor&IDE
