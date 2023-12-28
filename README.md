@@ -32,7 +32,7 @@
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
 
-![Gitlab Badge](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 <p align="center">
   <img src="https://github.com/Oussamazz/Oussamazz/blob/main/github.svg" alt="github.com/oussamazz" width="142" height="142" />
 </p>
