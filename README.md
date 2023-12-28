@@ -1,6 +1,10 @@
 ### Hello Friend ..
 
-<p><a href="https://giphy.com/gifs/creative-coding-libcinder-100days-3osxY5srzVZrwq3cFq">via GIPHY</a></p>
+
+<p align="center">
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/animation_devops.gif" alt="loading..." />
+</p>
+
 
 > ### "It's not at all important to get it right the first time. It's vitally important to get it right the last time."
 
