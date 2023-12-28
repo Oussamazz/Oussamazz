@@ -32,6 +32,10 @@
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
 
+![Gitlab Badge](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+<p align="center">
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/back-dev.gif" alt="back-end-dev_gif" />
+</p>
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 
 #### Editor&IDE
