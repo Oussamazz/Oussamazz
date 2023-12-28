@@ -2,7 +2,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/animation_devops.gif" alt="loading..." />
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/animation_devops.gif" alt="devops_gif" />
+</p>
+<p align="center">
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/back-dev.gif" alt="back-end-dev_gif" />
 </p>
 
 
