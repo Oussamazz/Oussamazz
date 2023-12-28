@@ -31,7 +31,8 @@
 ![Elastic Stack Badge](https://img.shields.io/badge/Elastic%20Stack-005571?logo=elasticstack&logoColor=fff&style=flat)
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
-![Grafana Badge](https://img.shields.io/badge/VirtualBox-8A2BE2)
+![Vbox Badge](https://img.shields.io/badge/VirtualBox-8A2BE2)
+![Vagrant Badge](https://img.shields.io/badge/Vagrant-8A2BE2)
 
 ![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 <p align="center">
