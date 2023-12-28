@@ -1,8 +1,5 @@
 ### Hello Friend ..
-<p align="center">
-  <img src="https://giphy.com/gifs/creative-coding-libcinder-100days-3osxY5srzVZrwq3cFq" alt="loading..." />
-</p>
-
+<iframe src="https://giphy.com/embed/3osxY5srzVZrwq3cFq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/creative-coding-libcinder-100days-3osxY5srzVZrwq3cFq">via GIPHY</a></p>
 
 > ### "It's not at all important to get it right the first time. It's vitally important to get it right the last time."
 
@@ -17,6 +14,8 @@
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 
 ### Tools and Platforms
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 ![Terraform Badge](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=flat)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
@@ -31,8 +30,8 @@
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 
 #### Editor&IDE
-[![](https://img.shields.io/badge/CLI%20Editor-Emacs-9400D3?style=flat&logo=gnu%20emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
-[![](https://img.shields.io/badge/GUI%20Editor-VSCode-66CEE3?style=flat&logo=visualstudiocode&logoColor=white)](https://www.gnu.org/software/emacs/)
+![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
 
 #### Status
