@@ -2,7 +2,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/animation_devops.gif" alt="loading..." />
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/animation_devops.gif" alt="devops_gif" />
+</p>
+<p align="center">
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/back-dev.gif" alt="back-end-dev_gif" />
 </p>
 
 
@@ -28,6 +31,11 @@
 ![Elastic Stack Badge](https://img.shields.io/badge/Elastic%20Stack-005571?logo=elasticstack&logoColor=fff&style=flat)
 ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
 ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
+
+![Gitlab Badge](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+<p align="center">
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/github.svg" alt="github.com/oussamazz" />
+</p>
 
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 
