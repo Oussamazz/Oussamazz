@@ -34,7 +34,7 @@
 
 ![Gitlab Badge](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
 <p align="center">
-  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/github.svg" alt="github.com/oussamazz" width="100" height="100" />
+  <img src="https://github.com/Oussamazz/Oussamazz/blob/main/github.svg" alt="github.com/oussamazz" width="142" height="142" />
 </p>
 
 ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
