@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friend ..
 <p align="center">
   <img src="https://giphy.com/gifs/creative-coding-libcinder-100days-3osxY5srzVZrwq3cFq" alt="loading..." />
 </p>
