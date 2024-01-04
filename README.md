@@ -49,7 +49,7 @@
 
 #### Status
 - Learning in progress...
-![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat)
+![-](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat)
 <!--
 **Oussamazz/Oussamazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
