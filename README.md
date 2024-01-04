@@ -35,13 +35,11 @@
 ![Vagrant Badge](https://img.shields.io/badge/Vagrant-2b83e2)
 ![GNS3 Badge](https://img.shields.io/badge/GNS3-8A2BE2)
 
-
+![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 ![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 <p align="center">
   <img src="https://github.com/Oussamazz/Oussamazz/blob/main/github.svg" alt="github.com/oussamazz" width="142" height="142" />
 </p>
-
-![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat)
 
 #### Editor&IDE
 ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
